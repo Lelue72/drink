@@ -3,6 +3,7 @@ Recipe
 - cachaca (sugar cane based)
 - lemons
 - ice
+- sugar
 
 Fruit options
 --------------
