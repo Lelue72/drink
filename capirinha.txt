@@ -11,6 +11,7 @@ Fruit options
 - pineapple
 - grapes
 - mandarines
+- bananas
 
 Alcohol options
 -------------------
