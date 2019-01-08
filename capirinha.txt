@@ -1,15 +1,17 @@
-recipe
+Recipe
 ---------------
 - cachaca (sugar cane based)
 - lemons
+- ice
 
-options
+Fruit options
 --------------
 - ginger
 - pineapple
 - grapes
 - mandarines
 
-alcohol options
+Alcohol options
 -------------------
 - wodka instead of cachaca
+- japanese sake
